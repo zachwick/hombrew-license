@@ -3281,7 +3281,7 @@ if options[:search] > 1
 elsif  options[:search] == 1
   candidates = []
   ARGV.each do |candidate|
-    candidates += Homebrew::FormulaLoader.load_formulas(candidate, [])
+    candidates += Homebrew::FormulaLoader.load_formulas(candidate)
   end
 else
   candidates = ARGV
