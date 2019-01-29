@@ -31,10 +31,9 @@
   "adns": "GPL-3.0-or-later",
   "adplug": "LGPL-2.1-only",
   "advancecomp": "GPL-2.0-only",
-  "aescrypt-packetizer": "",
-  "aescrypt": "",
-  "aeskeyfind": "",
-  "aespipe": "",
+  "aescrypt-packetizer": "Custom",
+  "aescrypt": "Custom",
+  "aespipe": "GPL-2.0-only",
   "afflib": [
     "BSD-4-Clause",
     "Public Domain (US)"
