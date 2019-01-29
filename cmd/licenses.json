@@ -35,7 +35,10 @@
   "aescrypt": "",
   "aeskeyfind": "",
   "aespipe": "",
-  "afflib": "",
+  "afflib": [
+    "BSD-4-Clause",
+    "Public Domain (US)"
+  ],
   "afio": "",
   "afl-fuzz": "",
   "afsctool": "",
