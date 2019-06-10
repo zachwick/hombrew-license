@@ -95,7 +95,7 @@
   "ansible-lint": "MIT",
   "ansible@1.9": "",
   "ansible@2.0": "",
-  "ansifilter": "",
+  "ansifilter": "GPL-3.0-only",
   "ansiweather": "BSD-2-Clause",
   "ant": "Apache-2.0",
   "ant-contrib": "",
