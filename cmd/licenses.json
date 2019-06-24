@@ -162,7 +162,7 @@
   "aria2": "GPL-2.0-or-later",
   "ark": "Apache-2.0",
   "arm-linux-gnueabihf-binutils": "",
-  "armadillo": "",
+  "armadillo": "Apache-2.0",
   "armor": "MIT",
   "arp-scan": "GPL-3.0-only",
   "arp-sk": "",
