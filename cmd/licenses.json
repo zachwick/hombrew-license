@@ -781,7 +781,7 @@
   "cython": "Apache-2.0",
   "czmq": "",
   "daemon": "GPL-2.0-or-later",
-  "daemonize": "",
+  "daemonize": "BSD-3-Clause",
   "daemonlogger": "",
   "daemontools": "",
   "dante": "",
